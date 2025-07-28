@@ -1,4 +1,4 @@
-# How to Set Up and Run ocs01-test
+# How to Set Up and Run Octra's ocs01-test
 
 This guide provides step-by-step instructions for installing, configuring, and running the **ocs01-test** CLI tool on an Ubuntu system. This tool is designed to interact with the OCS01 smart contract located at the address:  
 `octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn`.
