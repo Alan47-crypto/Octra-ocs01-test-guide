@@ -112,4 +112,5 @@ Congratulations! Your setup is complete. To run the application, simply execute 
 ./ocs01-test
 ```
 
-An interactive menu will appear, allowing you to test the smart contract. Test all 14 parameters by writting choice and enter then follow on screen instructions.
+An interactive menu will appear, allowing you to test the smart contract. Test all 14 parameters by writting choice (eg. 1 for greeting) and enter then follow on screen instructions.
+![Interactive Menu](https://github.com/Alan47-crypto/Octra-ocs01-test-guide/blob/main/Screenshot%202025-07-28%20at%2016.09.52.png)
